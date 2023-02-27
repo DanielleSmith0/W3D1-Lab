@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    height: 100%;
+    background-color: rgb(204, 229, 251);   
+}
+
+main {
+    height: 200px;
+    width: 300px;
+    background-image: 
+    url("https://media.istockphoto.com/id/119032942/photo/stork-amp-baby.jpg?b=1&s=170667a&w=0&k=20&c=AfYrCep_XyXg4KBtYc4b8Njbc03FtPmCHe2mLrgKt5o=");
+}
